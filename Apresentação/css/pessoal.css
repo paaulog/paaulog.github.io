@@ -1,0 +1,54 @@
+main h2 {
+    color: black;
+}
+
+.kobe {
+    max-width: 200px;
+    border-radius: 15%;
+}
+
+header nav li {
+    height: 50px;
+    display: inline-block;
+    margin: 0 120px;
+    text-transform: uppercase;
+}
+
+li img {
+
+    display: inline-block;
+}
+
+.ref {
+    list-style: none;
+}
+
+.ref li {
+    display: inline-block;
+    margin: 0 70px;
+
+}
+
+.p1 {
+    width:200px;
+    display: inline-block;
+    position: relative;
+    bottom: 205px;
+    left: 40px;
+    
+}
+.p2 {
+    width:200px;
+    display: inline-block;
+    margin: 0 160px;
+    position: relative;
+    bottom: 163px;
+    left: 20px;
+    
+}
+.p3 {
+    width:200px;
+    display: inline-block;
+    position: relative;
+    bottom: 30px;
+}
